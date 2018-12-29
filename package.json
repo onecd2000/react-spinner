@@ -1,0 +1,20 @@
+{
+  "name": "react-spinner",
+  "version": "1.0.0",
+  "description": "tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onecd2000/react-spinner.git"
+  },
+  "keywords": [],
+  "author": "Yahya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onecd2000/react-spinner/issues"
+  },
+  "homepage": "https://github.com/onecd2000/react-spinner#readme"
+}
